@@ -1,2 +1,8 @@
-# dio_metodos_otimizacao_aprendizado
-# dio_metodos_otimizacao_aprendizado
+# DiO - Métodos de Otimização de Aprendizado
+
+## Introdução aos métodos de otimização
+
+## Métodos de otimização
+
+## Algoritmos Fuzzy
+
